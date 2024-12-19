@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		4942156E2D14BE6300D225C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 494215552D14BE5E00D225C8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4942155C2D14BE5E00D225C8;
+			remoteInfo = FetchMobileTakeHomeProject;
+		};
+		494215782D14BE6300D225C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 494215552D14BE5E00D225C8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4942155C2D14BE5E00D225C8;
+			remoteInfo = FetchMobileTakeHomeProject;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		4942155D2D14BE5E00D225C8 /* FetchMobileTakeHomeProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FetchMobileTakeHomeProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4942156D2D14BE6300D225C8 /* FetchMobileTakeHomeProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FetchMobileTakeHomeProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		494215772D14BE6300D225C8 /* FetchMobileTakeHomeProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FetchMobileTakeHomeProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		4942155F2D14BE5E00D225C8 /* FetchMobileTakeHomeProject */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = FetchMobileTakeHomeProject;
+			sourceTree = "<group>";
+		};
+		494215702D14BE6300D225C8 /* FetchMobileTakeHomeProjectTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = FetchMobileTakeHomeProjectTests;
+			sourceTree = "<group>";
+		};
+		4942157A2D14BE6300D225C8 /* FetchMobileTakeHomeProjectUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = FetchMobileTakeHomeProjectUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4942155A2D14BE5E00D225C8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4942156A2D14BE6300D225C8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		494215742D14BE6300D225C8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		494215542D14BE5E00D225C8 = {
+			isa = PBXGroup;
+			children = (
+				4942155F2D14BE5E00D225C8 /* FetchMobileTakeHomeProject */,
+				494215702D14BE6300D225C8 /* FetchMobileTakeHomeProjectTests */,
+				4942157A2D14BE6300D225C8 /* FetchMobileTakeHomeProjectUITests */,
+				4942155E2D14BE5E00D225C8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4942155E2D14BE5E00D225C8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4942155D2D14BE5E00D225C8 /* FetchMobileTakeHomeProject.app */,
+				4942156D2D14BE6300D225C8 /* FetchMobileTakeHomeProjectTests.xctest */,
+				494215772D14BE6300D225C8 /* FetchMobileTakeHomeProjectUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4942155C2D14BE5E00D225C8 /* FetchMobileTakeHomeProject */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 494215812D14BE6300D225C8 /* Build configuration list for PBXNativeTarget "FetchMobileTakeHomeProject" */;
+			buildPhases = (
+				494215592D14BE5E00D225C8 /* Sources */,
+				4942155A2D14BE5E00D225C8 /* Frameworks */,
+				4942155B2D14BE5E00D225C8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				4942155F2D14BE5E00D225C8 /* FetchMobileTakeHomeProject */,
+			);
+			name = FetchMobileTakeHomeProject;
+			packageProductDependencies = (
+			);
+			productName = FetchMobileTakeHomeProject;
+			productReference = 4942155D2D14BE5E00D225C8 /* FetchMobileTakeHomeProject.app */;
+			productType = "com.apple.product-type.application";
+		};
+		4942156C2D14BE6300D225C8 /* FetchMobileTakeHomeProjectTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 494215842D14BE6300D225C8 /* Build configuration list for PBXNativeTarget "FetchMobileTakeHomeProjectTests" */;
+			buildPhases = (
+				494215692D14BE6300D225C8 /* Sources */,
+				4942156A2D14BE6300D225C8 /* Frameworks */,
+				4942156B2D14BE6300D225C8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4942156F2D14BE6300D225C8 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				494215702D14BE6300D225C8 /* FetchMobileTakeHomeProjectTests */,
+			);
+			name = FetchMobileTakeHomeProjectTests;
+			packageProductDependencies = (
+			);
+			productName = FetchMobileTakeHomeProjectTests;
+			productReference = 4942156D2D14BE6300D225C8 /* FetchMobileTakeHomeProjectTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		494215762D14BE6300D225C8 /* FetchMobileTakeHomeProjectUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 494215872D14BE6300D225C8 /* Build configuration list for PBXNativeTarget "FetchMobileTakeHomeProjectUITests" */;
+			buildPhases = (
+				494215732D14BE6300D225C8 /* Sources */,
+				494215742D14BE6300D225C8 /* Frameworks */,
+				494215752D14BE6300D225C8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				494215792D14BE6300D225C8 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				4942157A2D14BE6300D225C8 /* FetchMobileTakeHomeProjectUITests */,
+			);
+			name = FetchMobileTakeHomeProjectUITests;
+			packageProductDependencies = (
+			);
+			productName = FetchMobileTakeHomeProjectUITests;
+			productReference = 494215772D14BE6300D225C8 /* FetchMobileTakeHomeProjectUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		494215552D14BE5E00D225C8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					4942155C2D14BE5E00D225C8 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					4942156C2D14BE6300D225C8 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 4942155C2D14BE5E00D225C8;
+					};
+					494215762D14BE6300D225C8 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 4942155C2D14BE5E00D225C8;
+					};
+				};
+			};
+			buildConfigurationList = 494215582D14BE5E00D225C8 /* Build configuration list for PBXProject "FetchMobileTakeHomeProject" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 494215542D14BE5E00D225C8;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 4942155E2D14BE5E00D225C8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4942155C2D14BE5E00D225C8 /* FetchMobileTakeHomeProject */,
+				4942156C2D14BE6300D225C8 /* FetchMobileTakeHomeProjectTests */,
+				494215762D14BE6300D225C8 /* FetchMobileTakeHomeProjectUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4942155B2D14BE5E00D225C8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4942156B2D14BE6300D225C8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		494215752D14BE6300D225C8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		494215592D14BE5E00D225C8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		494215692D14BE6300D225C8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		494215732D14BE6300D225C8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4942156F2D14BE6300D225C8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4942155C2D14BE5E00D225C8 /* FetchMobileTakeHomeProject */;
+			targetProxy = 4942156E2D14BE6300D225C8 /* PBXContainerItemProxy */;
+		};
+		494215792D14BE6300D225C8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4942155C2D14BE5E00D225C8 /* FetchMobileTakeHomeProject */;
+			targetProxy = 494215782D14BE6300D225C8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		4942157F2D14BE6300D225C8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		494215802D14BE6300D225C8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		494215822D14BE6300D225C8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"FetchMobileTakeHomeProject/Preview Content\"";
+				DEVELOPMENT_TEAM = X6RLZ99668;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = testApp.FetchMobileTakeHomeProject;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		494215832D14BE6300D225C8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"FetchMobileTakeHomeProject/Preview Content\"";
+				DEVELOPMENT_TEAM = X6RLZ99668;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = testApp.FetchMobileTakeHomeProject;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		494215852D14BE6300D225C8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X6RLZ99668;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = testApp.FetchMobileTakeHomeProjectTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FetchMobileTakeHomeProject.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FetchMobileTakeHomeProject";
+			};
+			name = Debug;
+		};
+		494215862D14BE6300D225C8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X6RLZ99668;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = testApp.FetchMobileTakeHomeProjectTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FetchMobileTakeHomeProject.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FetchMobileTakeHomeProject";
+			};
+			name = Release;
+		};
+		494215882D14BE6300D225C8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X6RLZ99668;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = testApp.FetchMobileTakeHomeProjectUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = FetchMobileTakeHomeProject;
+			};
+			name = Debug;
+		};
+		494215892D14BE6300D225C8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X6RLZ99668;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = testApp.FetchMobileTakeHomeProjectUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = FetchMobileTakeHomeProject;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		494215582D14BE5E00D225C8 /* Build configuration list for PBXProject "FetchMobileTakeHomeProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4942157F2D14BE6300D225C8 /* Debug */,
+				494215802D14BE6300D225C8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		494215812D14BE6300D225C8 /* Build configuration list for PBXNativeTarget "FetchMobileTakeHomeProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				494215822D14BE6300D225C8 /* Debug */,
+				494215832D14BE6300D225C8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		494215842D14BE6300D225C8 /* Build configuration list for PBXNativeTarget "FetchMobileTakeHomeProjectTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				494215852D14BE6300D225C8 /* Debug */,
+				494215862D14BE6300D225C8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		494215872D14BE6300D225C8 /* Build configuration list for PBXNativeTarget "FetchMobileTakeHomeProjectUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				494215882D14BE6300D225C8 /* Debug */,
+				494215892D14BE6300D225C8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 494215552D14BE5E00D225C8 /* Project object */;
+}
